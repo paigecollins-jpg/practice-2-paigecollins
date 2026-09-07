@@ -45,3 +45,9 @@ h2 {
 h3 {
     color: #3153D1;
 }
+footer {
+    background: #111111;
+    color: #f6f6f4;
+    border: 6px #FACB37;
+    height: 260px;
+}
